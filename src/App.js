@@ -7,7 +7,7 @@ function App() {
       <h1 className="text-3xl text-blue-900 mt-4">Welcome.</h1>
       <p><b>This website is under development</b>. You may 
         access the Portal for semester registration: 
-         <a href="https://portal.ecoej.org" className='text-red-600 hover:opacity-30'> portal.ecoej.org</a></p>
+         <a href="https://www.portal.ecoej.org/" className='text-red-600 hover:opacity-30'> portal.ecoej.org</a></p>
     </div>
   );
 }
